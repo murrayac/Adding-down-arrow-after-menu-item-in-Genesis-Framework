@@ -1,0 +1,12 @@
+/* Responsive Menu
+--------------------------------------------- */
+
+.genesis-nav-menu .menu-item-has-children > a:after {
+    content: "\f347";
+    display: inline-block;
+    font: normal 16px/1 'dashicons';
+    text-rendering: auto;
+    position: relative;
+    top: 2px;
+    left: 6px;
+}
